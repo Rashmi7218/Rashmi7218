@@ -28,7 +28,8 @@ Python • TypeScript • JavaScript
 PyTorch • TensorFlow • OpenCV • Scikit-learn • Hugging Face
 
 **LLM / GenAI**  
-LangChain • RAG • Prompt Engineering • AWS Bedrock • Agentic Workflows
+LangChain • RAG • Prompt Engineering • AWS Bedrock • Agentic Workflows • AWS Bedrock
+AgentCore • CrewAI 
 
 **Backend / Product**  
 FastAPI • React • Next.js • Vite • PostgreSQL • Supabase
@@ -55,9 +56,6 @@ AWS • Docker • Git • Pinecone • FAISS
 
 ### Examify Prepster
 AI-powered learning assistant for AWS exam preparation using **retrieval-augmented generation**, structured knowledge access, and context-aware LLM reasoning.
-
-### Twitter Sentiment Analysis using LangChain
-A practical NLP workflow for extracting and analyzing **public sentiment trends** using LLM-assisted processing.
 
 ### Current Focus
 Building and refining systems across:
