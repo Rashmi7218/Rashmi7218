@@ -54,6 +54,16 @@ AWS • Docker • Git • Pinecone • FAISS
 
 ## Selected Work
 
+### AgriLink Agents
+A **production-style multi-agent AI platform** for Indian agriculture built to support **crop planning, procurement workflows, export intelligence, and mandi market research**.
+
+**Highlights:**
+- 18 specialized AI agents
+- 4 end-to-end autonomous workflows
+- ChromaDB-backed shared knowledge layer
+- CrewAI orchestration and parallel workflow execution
+- Applied AI for agriculture, market access, and decision support
+
 ### Examify Prepster
 AI-powered learning assistant for AWS exam preparation using **retrieval-augmented generation**, structured knowledge access, and context-aware LLM reasoning.
 
@@ -92,6 +102,12 @@ This profile is where I’m documenting work around:
 - production-minded AI builds
 
 ---
+
+## Featured Repositories
+
+- **[AgriLink-agents](https://github.com/Rashmi7218/AgriLink-agents)** — Multi-agent AI platform for agriculture workflows
+- **[examify-prepster](https://github.com/Rashmi7218/examify-prepster)** — RAG-based AI learning assistant
+
 
 ## Connect
 
