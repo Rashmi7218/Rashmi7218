@@ -54,7 +54,7 @@ AWS • Docker • Git • Pinecone • FAISS
 
 ## Selected Work
 
-### AgriLink Agents
+### AgriLink — AI Agent Platform for Indian Agriculture
 A **production-style multi-agent AI platform** for Indian agriculture built to support **crop planning, procurement workflows, export intelligence, and mandi market research**.
 
 **Highlights:**
