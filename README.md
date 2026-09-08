@@ -73,6 +73,25 @@ AWS • Docker • Git • Pinecone • FAISS
 
 ## Selected Work
 
+### DevFlow AI — AI-Powered Engineering Workflow Automation
+
+[**GitHub Repository**](https://github.com/Rashmi7218/dev-flow) • [**Live Demo**](https://devflow-api-3tiw.onrender.com)
+
+Event-driven engineering automation platform connecting **GitHub, Jira, and Slack**, with an AI layer for developer workflow intelligence and cross-platform automation.
+
+**Highlights:**
+
+* Built an event-driven **FastAPI + PostgreSQL** backend that correlates GitHub PRs, CI/CD runs, Jira tickets, and Slack conversations into a unified engineering workflow.
+* Integrated **LLM-powered PR summarization, CI failure diagnosis, structured ticket extraction, and natural-language project status queries** using Groq.
+* Designed a **human-in-the-loop Slack → Jira workflow**, where AI generates structured Jira tickets from Slack discussions but requires user approval before ticket creation.
+* Implemented production-oriented webhook infrastructure including **GitHub HMAC verification, Slack signature validation, webhook idempotency, duplicate-event protection, and graceful AI failure handling**.
+* Built a ticket timeline and event dashboard that aggregates activity across GitHub, Jira, CI/CD, and Slack.
+* Added **65 automated unit and integration tests**, mocking external services and running through GitHub Actions CI on every push/PR.
+* Containerized with **Docker Compose** and deployed publicly on **Render**.
+
+**Tech:** Python • FastAPI • PostgreSQL • SQLAlchemy • Groq LLM • GitHub API/Webhooks • Jira API • Slack API • Docker • GitHub Actions • Pytest
+
+
 ### AgriLink — AI Agent Platform for Indian Agriculture
 A **production-style multi-agent AI platform** for Indian agriculture built to support **crop planning, procurement workflows, export intelligence, and mandi market research**.
 
@@ -126,8 +145,11 @@ This profile is where I'm documenting work around:
 ---
 
 ## Featured Repositories
-- **[AgriLink-agents](https://github.com/Rashmi7218/AgriLink-agents)** — Multi-agent AI platform for agriculture workflows
-- **[examify-prepster](https://github.com/Rashmi7218/examify-prepster)** — RAG-based AI learning assistant
+
+* [**dev-flow**](https://github.com/Rashmi7218/dev-flow) — AI-powered engineering automation connecting GitHub, Jira, and Slack with PR summarization, CI failure analysis, human-in-the-loop ticket creation, and natural-language project intelligence.
+* [**AgriLink-agents**](https://github.com/Rashmi7218/AgriLink-agents) — Multi-agent AI platform for agriculture workflows.
+* [**examify-prepster**](https://github.com/Rashmi7218/examify-prepster) — RAG-based AI learning assistant.
+
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/rashmi-chapke-6798421b1/) • [GitHub](https://github.com/Rashmi7218) • [Email](mailto:rscrchapke@gmail.com)
