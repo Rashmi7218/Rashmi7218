@@ -1,5 +1,5 @@
 # Rashmi Chapke
-**AI Engineer | LLM Applications | RAG Systems | Computer Vision | Backend AI**
+**Applied AI Engineer | LLM Systems • RAG • Agents • AI Backend**
 
 Building AI systems that are meant to be **used**, not just demoed.
 
